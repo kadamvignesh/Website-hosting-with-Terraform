@@ -9,6 +9,8 @@
     terraform init   terraform validate   terraform plam   terraform apply
 
 4. Now, go to your buckets in aws management console and update the policy
+
+
      {
      "Version": "2012-10-17",
     "Statement": [
