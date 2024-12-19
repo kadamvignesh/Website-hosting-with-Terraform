@@ -1,4 +1,4 @@
-Static Website hosting on AWS s3 with Terraform 
+<h1>Static Website hosting on AWS s3 with Terraform</h1> 
 
 1. git clone the project
    git clone https://github.com/kadamvignesh/Website-hosting-with-Terraform.git
