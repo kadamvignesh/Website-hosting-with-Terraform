@@ -24,6 +24,8 @@
 
 5. Run the URL given by terraform
 
+6. Run terraform destroy for deleting the insfrastructure.
+
 ![image alt](https://github.com/kadamvignesh/Website-hosting-with-Terraform/blob/main/Screenshot%20(142).png?raw=true)
 
 
